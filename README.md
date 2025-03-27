@@ -2,7 +2,7 @@
 
 I'm Pragnya, Information and Electrical Engineer specializing in Generative AI, Machine Learning, Natural Language Processing, and Large Language Models.
 
-I’m passionate about building AI systems that amplify human potential—bridging the gap between human and artificial intelligence.
+I’m passionate about designing AI not to replace humans, but to elevate what we’re capable of.
 
 I'm currently working on improving my German skills, along with language, I'm also actively looking for a new role in the AI field. 
 
