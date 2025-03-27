@@ -14,10 +14,10 @@ Social Media links:
 ## About Me
 
 # Professional Highlights 🌟
-- Master Thesis Student (Oct 2024 - Present)
-- Student Assistant (Oct 2023 - Dec 2024)
-- Work Student (July 2022- Feb 2023)
-- Associate Software Engineer, India (Mar 2019 - July 2020)
+- Master Thesis Student 
+- Student Assistant
+- Work Student 
+- Associate Software Engineer, India
 
 # Tech Toolbox 🛠️
 - Languages: Python, SQL, Java, HTML, CSS
