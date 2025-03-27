@@ -6,9 +6,6 @@ I’m passionate about building AI systems that amplify human potential—bridgi
 
 I'm currently working on improving my German skills, along with language, I'm also actively looking for a new role in the AI field. 
 
-
-## Here are some ideas to get to know me more
-
 Social Media links: 
 * 📧 Email: pataskarpragnya@gmail.com
 * 🔗 LinkedIn: [Pragnya Pataskar](https://linkedin.com/in/pragnya-pataskar-89842b130)
