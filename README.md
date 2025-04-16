@@ -14,9 +14,9 @@ Social Media links:
 ## About Me
 
 # Professional Highlights 🌟
-- Master Thesis Student 
-- Student Assistant
-- Work Student 
+- Master's Thesis Student focusing on Large Language Models
+- Student Assistant as Java developer
+- Work Student as a full stack developer
 - Associate Software Engineer, India
 
 # Tech Toolbox 🛠️
